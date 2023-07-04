@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/nour-saber-b73970213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nour-saber-b73970213" height="30" width="40" /></a>
 <a href="https://fb.com/nour.saber01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nour.saber01" height="30" width="40" /></a>
 <a href="https://instagram.com/nourr.saberr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nourr.saberr" height="30" width="40" /></a>
-<a href="https://discord.gg/6670" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6670" height="30" width="40" /></a>
+<a href="https://discord.gg/Nour Saber#6670" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nour Saber#6670" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
