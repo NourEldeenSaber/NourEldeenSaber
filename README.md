@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nour Eldeen Mahmoud Saber</h1>
 <h3 align="center">A junior back-end developer from Egypt</h3>
 
-<p align="left"> <a href="https://twitter.com/nour01saber" target="blank"><img src="https://img.shields.io/twitter/follow/nour01saber?logo=twitter&style=for-the-badge" alt="nour01saber" /></a> </p>
-
 - 🌱 I’m currently learning **advanced topics in php , laravel**
-
-- Ask me about [php,laravel](php,laravel)
 
 - My favorite framework : **Laravel**
 
