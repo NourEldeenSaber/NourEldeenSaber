@@ -3,7 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/nour01saber" target="blank"><img src="https://img.shields.io/twitter/follow/nour01saber?logo=twitter&style=for-the-badge" alt="nour01saber" /></a> </p>
 
-- 🌱 I’m currently learning **php , laravel**
+- 🌱 I’m currently learning **advanced topics in php , laravel**
+
+- Ask me about [php,laravel](php,laravel)
+
+- My favorite framework : **Laravel**
 
 - 📫 How to reach me **nour01saber@gmail.com**
 
