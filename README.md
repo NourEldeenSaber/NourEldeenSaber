@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nour Eldeen Mahmoud Saber</h1>
 <h3 align="center">A junior back-end developer from Egypt</h3>
 
-- 🌱 I’m currently learning **advanced topics in php , laravel**
+- 🌱 I’m currently learning **advanced topics in C# , Asp.net**
 
-- My favorite framework : **Laravel**
+- My favorite framework : **.Net**
 
 - 📫 How to reach me **nour01saber@gmail.com**
 
