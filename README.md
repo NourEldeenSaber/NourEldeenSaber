@@ -9,7 +9,7 @@
 ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
 ```
 
-### `< Nour Eldeen Mahmoud Saber />`
+### `< Nour Eldin Mahmoud Saber />`
 
 **Back-End Developer · .NET Enthusiast · Egypt 🇪🇬**
 
@@ -33,7 +33,7 @@
 ```csharp
 public class NourEldeen : Developer
 {
-    public string Name       => "Nour Eldeen Mahmoud Saber";
+    public string Name       => "Nour Eldin Mahmoud Saber";
     public string Role       => "Junior Back-End Developer";
     public string Location   => "Egypt 🇪🇬";
     public string[] Learning => ["Advanced C#", "ASP.NET Core", "Clean Architecture"];
@@ -93,7 +93,7 @@ public class NourEldeen : Developer
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NourEldeenSaber&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NourEldinSaber&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -103,7 +103,7 @@ public class NourEldeen : Developer
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=NourEldeenSaber&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NourEldinSaber&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -113,7 +113,7 @@ public class NourEldeen : Developer
 
 <div align="center">
 
-[![Nour's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NourEldeenSaber&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nour's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NourEldinSaber&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -126,7 +126,7 @@ public class NourEldeen : Developer
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=NourEldeenSaber&label=Profile%20Views&color=00D9FF&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=NourEldinSaber&label=Profile%20Views&color=00D9FF&style=flat)
 
 **"Code is like humor. When you have to explain it, it's bad." — Cory House**
 
